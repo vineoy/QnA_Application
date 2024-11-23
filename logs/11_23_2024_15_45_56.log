@@ -1,0 +1,90 @@
+[2024-11-23 15:46:51,794] 17 root - INFO - data loading started...
+[2024-11-23 15:46:51,874] 20 root - INFO - data loading completed...
+[2024-11-23 15:46:53,772] 24 root - INFO - 
+[2024-11-23 15:46:53,832] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 15:46:58,419] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 15:47:00,097] 31 root - INFO - 
+[2024-11-23 15:55:30,214] 17 root - INFO - data loading started...
+[2024-11-23 15:55:30,216] 20 root - INFO - data loading completed...
+[2024-11-23 15:55:31,964] 24 root - INFO - 
+[2024-11-23 15:55:31,975] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 15:55:36,512] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 15:55:38,208] 31 root - INFO - 
+[2024-11-23 15:55:40,054] 37 root - INFO - 
+[2024-11-23 16:04:24,332] 17 root - INFO - data loading started...
+[2024-11-23 16:04:24,334] 20 root - INFO - data loading completed...
+[2024-11-23 16:04:26,260] 24 root - INFO - 
+[2024-11-23 16:04:26,265] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 16:04:29,584] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 16:04:31,207] 31 root - INFO - 
+[2024-11-23 16:04:31,623] 37 root - INFO - 
+[2024-11-23 16:05:16,971] 17 root - INFO - data loading started...
+[2024-11-23 16:05:16,972] 20 root - INFO - data loading completed...
+[2024-11-23 16:05:18,595] 24 root - INFO - 
+[2024-11-23 16:05:18,600] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 16:05:21,952] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 16:05:23,541] 31 root - INFO - 
+[2024-11-23 16:05:23,946] 37 root - INFO - 
+[2024-11-23 16:07:04,040] 17 root - INFO - data loading started...
+[2024-11-23 16:07:04,042] 20 root - INFO - data loading completed...
+[2024-11-23 16:07:05,703] 24 root - INFO - 
+[2024-11-23 16:07:05,708] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 16:07:10,040] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 16:07:11,668] 31 root - INFO - 
+[2024-11-23 16:07:12,080] 37 root - INFO - 
+[2024-11-23 16:09:06,006] 17 root - INFO - data loading started...
+[2024-11-23 16:09:06,008] 20 root - INFO - data loading completed...
+[2024-11-23 16:09:07,670] 24 root - INFO - 
+[2024-11-23 16:09:07,674] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 16:09:12,538] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 16:09:14,230] 31 root - INFO - 
+[2024-11-23 16:09:14,642] 37 root - INFO - 
+[2024-11-23 16:11:01,123] 17 root - INFO - data loading started...
+[2024-11-23 16:11:01,126] 20 root - INFO - data loading completed...
+[2024-11-23 16:11:02,076] 24 root - INFO - 
+[2024-11-23 16:11:02,076] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 16:11:06,081] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 16:11:07,667] 31 root - INFO - 
+[2024-11-23 16:11:08,092] 37 root - INFO - 
+[2024-11-23 16:14:39,693] 17 root - INFO - data loading started...
+[2024-11-23 16:14:40,146] 20 root - INFO - data loading completed...
+[2024-11-23 16:14:41,839] 24 root - INFO - 
+[2024-11-23 16:14:41,847] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 16:14:48,520] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 16:14:50,162] 31 root - INFO - 
+[2024-11-23 16:14:53,375] 37 root - INFO - 
+[2024-11-23 16:19:07,124] 17 root - INFO - data loading started...
+[2024-11-23 16:19:08,531] 20 root - INFO - data loading completed...
+[2024-11-23 16:19:10,318] 24 root - INFO - 
+[2024-11-23 16:19:10,326] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 16:19:15,037] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 16:19:16,715] 31 root - INFO - 
+[2024-11-23 16:19:22,556] 37 root - INFO - 
+[2024-11-23 16:21:29,906] 17 root - INFO - data loading started...
+[2024-11-23 16:21:31,329] 20 root - INFO - data loading completed...
+[2024-11-23 16:21:33,032] 24 root - INFO - 
+[2024-11-23 16:21:33,040] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 16:21:37,247] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 16:21:37,774] 31 root - INFO - 
+[2024-11-23 16:21:42,091] 37 root - INFO - 
+[2024-11-23 16:29:52,509] 17 root - INFO - data loading started...
+[2024-11-23 16:29:53,502] 20 root - INFO - data loading completed...
+[2024-11-23 16:29:55,170] 24 root - INFO - 
+[2024-11-23 16:29:55,179] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 16:29:59,616] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 16:30:01,353] 31 root - INFO - 
+[2024-11-23 16:30:15,759] 37 root - INFO - 
+[2024-11-23 16:31:07,018] 17 root - INFO - data loading started...
+[2024-11-23 16:31:07,950] 20 root - INFO - data loading completed...
+[2024-11-23 16:31:09,655] 24 root - INFO - 
+[2024-11-23 16:31:09,655] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 16:31:14,486] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 16:31:16,227] 31 root - INFO - 
+[2024-11-23 16:31:30,622] 37 root - INFO - 
+[2024-11-23 16:33:00,839] 17 root - INFO - data loading started...
+[2024-11-23 16:33:01,814] 20 root - INFO - data loading completed...
+[2024-11-23 16:33:03,435] 24 root - INFO - 
+[2024-11-23 16:33:03,435] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+[2024-11-23 16:33:07,724] 357 sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+[2024-11-23 16:33:09,352] 31 root - INFO - 
+[2024-11-23 16:33:23,977] 37 root - INFO - 
